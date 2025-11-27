@@ -1,0 +1,707 @@
+commodity_id,commodity,year,price
+49,"Small local banana",2010,3.87
+36,"Young buffalo with bone (veal)",2010,49.06
+40,Onion,2010,2.64
+42,Potato,2010,2.85
+43,Tomato,2010,2.56
+44,"Green beans",2010,4.61
+45,"Salted lemon",2010,3.58
+46,"Medium cabbage",2010,4.47
+47,"Medium cucumber",2010,2.27
+48,"Small zucchini",2010,2.33
+38,"Boneless medium-age beef & buffalo (kandoz)",2010,53.78
+50,"Local garlic",2010,9.85
+51,Eggplant,2010,1.57
+52,"Yellow carrot (without greens)",2010,3.01
+53,"Green bell pepper",2010,3.26
+39,"Local mutton with bone",2010,52.14
+37,"Imported frozen beef",2010,25.29
+1,"Local duck",2010,25.97
+2,"Local frozen white chicken",2010,19.77
+3,"Farm chicken",2010,14.62
+4,"Local chicken",2010,17.32
+5,"Large farm eggs",2010,0.59
+6,"Medium domestic pigeon",2010,26.48
+11,"Loose imported cow butter",2010,24.73
+12,"Aged Romano cheese",2010,38.43
+13,"Fresh milk",2010,4.47
+31,"Local crushed fava beans",2010,5.25
+7,"Aged full-fat white cheese",2010,22.07
+28,"Local wheat",2010,2.97
+21,"Local dry fava beans (for stew)",2010,4.98
+10,"Loose local buffalo butter",2010,34.52
+14,"Frozen mackerel",2010,7.9
+15,Tilapia,2010,12.27
+26,"Local dry beans",2010,6.62
+27,"Crushed lentils",2010,8.83
+16,"Frozen pasta fish",2010,9.75
+17,Catfish,2010,8.69
+18,"Mullet fish",2010,26.59
+8,"Cottage cheese",2010,10.09
+9,"Local buffalo ghee",2010,40.72
+30,"Whole local lentils",2010,9.07
+41,Strawberry,2010,3.34
+36,"Young buffalo with bone (veal)",2011,57.17
+39,"Local mutton with bone",2011,59.13
+38,"Boneless medium-age beef & buffalo (kandoz)",2011,58.6
+40,Onion,2011,4.24
+37,"Imported frozen beef",2011,30.43
+42,Potato,2011,4.08
+43,Tomato,2011,4.05
+44,"Green beans",2011,4.88
+45,"Salted lemon",2011,5.09
+46,"Medium cabbage",2011,6.26
+47,"Medium cucumber",2011,2.88
+48,"Small zucchini",2011,3.61
+49,"Small local banana",2011,5.45
+50,"Local garlic",2011,11.28
+51,Eggplant,2011,1.6
+52,"Yellow carrot (without greens)",2011,2.73
+53,"Green bell pepper",2011,3.49
+30,"Whole local lentils",2011,8.85
+27,"Crushed lentils",2011,8.48
+18,"Mullet fish",2011,28.12
+17,Catfish,2011,10.04
+16,"Frozen pasta fish",2011,10.27
+15,Tilapia,2011,14.02
+28,"Local wheat",2011,3.43
+14,"Frozen mackerel",2011,9.91
+31,"Local crushed fava beans",2011,6.37
+6,"Medium domestic pigeon",2011,28.4
+5,"Large farm eggs",2011,0.64
+4,"Local chicken",2011,18.52
+26,"Local dry beans",2011,7.02
+2,"Local frozen white chicken",2011,19.33
+1,"Local duck",2011,26.15
+21,"Local dry fava beans (for stew)",2011,7.67
+3,"Farm chicken",2011,16.66
+7,"Aged full-fat white cheese",2011,23.78
+8,"Cottage cheese",2011,10.82
+9,"Local buffalo ghee",2011,45.34
+10,"Loose local buffalo butter",2011,38.4
+11,"Loose imported cow butter",2011,29.55
+12,"Aged Romano cheese",2011,43.36
+13,"Fresh milk",2011,4.99
+41,Strawberry,2011,3.18
+42,Potato,2012,5.05
+43,Tomato,2012,5.04
+44,"Green beans",2012,5.73
+45,"Salted lemon",2012,5.48
+46,"Medium cabbage",2012,5.73
+47,"Medium cucumber",2012,4.37
+50,"Local garlic",2012,10.75
+38,"Boneless medium-age beef & buffalo (kandoz)",2012,62.9
+39,"Local mutton with bone",2012,62.7
+51,Eggplant,2012,1.89
+40,Onion,2012,4.78
+52,"Yellow carrot (without greens)",2012,2.78
+37,"Imported frozen beef",2012,32.1
+36,"Young buffalo with bone (veal)",2012,60.9
+53,"Green bell pepper",2012,3.43
+49,"Small local banana",2012,5.64
+48,"Small zucchini",2012,3.38
+21,"Local dry fava beans (for stew)",2012,8.3
+14,"Frozen mackerel",2012,12.44
+16,"Frozen pasta fish",2012,10.45
+17,Catfish,2012,11.78
+18,"Mullet fish",2012,31.98
+15,Tilapia,2012,17.36
+1,"Local duck",2012,29.03
+2,"Local frozen white chicken",2012,22.36
+3,"Farm chicken",2012,20.35
+28,"Local wheat",2012,3.6
+27,"Crushed lentils",2012,8.27
+26,"Local dry beans",2012,7.18
+4,"Local chicken",2012,21.37
+5,"Large farm eggs",2012,0.74
+6,"Medium domestic pigeon",2012,30.68
+30,"Whole local lentils",2012,8.8
+31,"Local crushed fava beans",2012,6.4
+7,"Aged full-fat white cheese",2012,24.2
+8,"Cottage cheese",2012,11.63
+9,"Local buffalo ghee",2012,47.3
+10,"Loose local buffalo butter",2012,43.4
+11,"Loose imported cow butter",2012,31.51
+12,"Aged Romano cheese",2012,44
+13,"Fresh milk",2012,5.49
+41,Strawberry,2012,2.22
+50,"Local garlic",2013,9.64
+53,"Green bell pepper",2013,2.92
+52,"Yellow carrot (without greens)",2013,4.34
+51,Eggplant,2013,2.38
+47,"Medium cucumber",2013,4.53
+36,"Young buffalo with bone (veal)",2013,66.15
+40,Onion,2013,4.26
+42,Potato,2013,5.96
+49,"Small local banana",2013,5.95
+48,"Small zucchini",2013,3.98
+46,"Medium cabbage",2013,8.19
+45,"Salted lemon",2013,5.42
+37,"Imported frozen beef",2013,34.1
+43,Tomato,2013,3.5
+39,"Local mutton with bone",2013,71.7
+44,"Green beans",2013,6.72
+38,"Boneless medium-age beef & buffalo (kandoz)",2013,67.82
+4,"Local chicken",2013,27.58
+3,"Farm chicken",2013,23.14
+2,"Local frozen white chicken",2013,27.1
+1,"Local duck",2013,33.23
+28,"Local wheat",2013,4.08
+27,"Crushed lentils",2013,8.44
+26,"Local dry beans",2013,12.89
+21,"Local dry fava beans (for stew)",2013,9.1
+30,"Whole local lentils",2013,9.8
+6,"Medium domestic pigeon",2013,37.39
+7,"Aged full-fat white cheese",2013,27.87
+18,"Mullet fish",2013,36.83
+17,Catfish,2013,13.33
+31,"Local crushed fava beans",2013,6.94
+15,Tilapia,2013,20.75
+14,"Frozen mackerel",2013,15.08
+16,"Frozen pasta fish",2013,11.98
+5,"Large farm eggs",2013,1
+8,"Cottage cheese",2013,13.46
+9,"Local buffalo ghee",2013,48.59
+10,"Loose local buffalo butter",2013,48.27
+11,"Loose imported cow butter",2013,40.13
+12,"Aged Romano cheese",2013,49.17
+13,"Fresh milk",2013,5.94
+41,Strawberry,2013,4.8
+37,"Imported frozen beef",2014,36.6
+36,"Young buffalo with bone (veal)",2014,80.23
+44,"Green beans",2014,8.05
+45,"Salted lemon",2014,6.74
+46,"Medium cabbage",2014,11.52
+52,"Yellow carrot (without greens)",2014,4.09
+51,Eggplant,2014,1.74
+39,"Local mutton with bone",2014,79.37
+38,"Boneless medium-age beef & buffalo (kandoz)",2014,77.27
+42,Potato,2014,4.82
+53,"Green bell pepper",2014,3.74
+40,Onion,2014,5.62
+43,Tomato,2014,3.91
+50,"Local garlic",2014,16.56
+49,"Small local banana",2014,5.9
+48,"Small zucchini",2014,3.09
+47,"Medium cucumber",2014,4.2
+1,"Local duck",2014,35.18
+2,"Local frozen white chicken",2014,28.29
+3,"Farm chicken",2014,24.5
+4,"Local chicken",2014,26.81
+5,"Large farm eggs",2014,1.11
+6,"Medium domestic pigeon",2014,42.54
+28,"Local wheat",2014,4.26
+27,"Crushed lentils",2014,9.23
+26,"Local dry beans",2014,13.52
+17,Catfish,2014,13.66
+16,"Frozen pasta fish",2014,12.64
+15,Tilapia,2014,22.42
+14,"Frozen mackerel",2014,15.38
+18,"Mullet fish",2014,40.45
+31,"Local crushed fava beans",2014,7.43
+30,"Whole local lentils",2014,11.94
+7,"Aged full-fat white cheese",2014,36.87
+8,"Cottage cheese",2014,14.72
+9,"Local buffalo ghee",2014,57.05
+10,"Loose local buffalo butter",2014,55.82
+11,"Loose imported cow butter",2014,39.63
+12,"Aged Romano cheese",2014,60.33
+13,"Fresh milk",2014,6.59
+21,"Local dry fava beans (for stew)",2014,10.07
+41,Strawberry,2014,5.32
+36,"Young buffalo with bone (veal)",2015,90.4
+37,"Imported frozen beef",2015,40.93
+38,"Boneless medium-age beef & buffalo (kandoz)",2015,86.69
+39,"Local mutton with bone",2015,89.58
+47,"Medium cucumber",2015,5.88
+52,"Yellow carrot (without greens)",2015,4.26
+53,"Green bell pepper",2015,7.91
+40,Onion,2015,2.56
+42,Potato,2015,4.77
+43,Tomato,2015,4.24
+44,"Green beans",2015,9.83
+45,"Salted lemon",2015,8.64
+46,"Medium cabbage",2015,8.64
+48,"Small zucchini",2015,4.77
+49,"Small local banana",2015,8.33
+50,"Local garlic",2015,11.53
+51,Eggplant,2015,1.89
+1,"Local duck",2015,33
+2,"Local frozen white chicken",2015,30.98
+3,"Farm chicken",2015,24.5
+4,"Local chicken",2015,27.04
+5,"Large farm eggs",2015,1.13
+6,"Medium domestic pigeon",2015,47.83
+17,Catfish,2015,12.56
+16,"Frozen pasta fish",2015,12.75
+15,Tilapia,2015,24.42
+14,"Frozen mackerel",2015,14.48
+13,"Fresh milk",2015,7.03
+12,"Aged Romano cheese",2015,62
+11,"Loose imported cow butter",2015,39.55
+10,"Loose local buffalo butter",2015,58.23
+9,"Local buffalo ghee",2015,62.05
+8,"Cottage cheese",2015,16.34
+7,"Aged full-fat white cheese",2015,38.2
+21,"Local dry fava beans (for stew)",2015,10.68
+26,"Local dry beans",2015,10.18
+27,"Crushed lentils",2015,12.63
+28,"Local wheat",2015,4.6
+30,"Whole local lentils",2015,15.46
+31,"Local crushed fava beans",2015,7.49
+18,"Mullet fish",2015,40.3
+41,Strawberry,2015,6.5
+51,Eggplant,2016,4.12
+36,"Young buffalo with bone (veal)",2016,100.12
+37,"Imported frozen beef",2016,46.68
+53,"Green bell pepper",2016,6.93
+52,"Yellow carrot (without greens)",2016,3.91
+39,"Local mutton with bone",2016,101.12
+50,"Local garlic",2016,14.28
+49,"Small local banana",2016,9.1
+48,"Small zucchini",2016,5.66
+38,"Boneless medium-age beef & buffalo (kandoz)",2016,97.67
+47,"Medium cucumber",2016,5.32
+46,"Medium cabbage",2016,8.37
+45,"Salted lemon",2016,8.52
+44,"Green beans",2016,9.97
+43,Tomato,2016,4.15
+42,Potato,2016,5.93
+40,Onion,2016,4.09
+1,"Local duck",2016,33.54
+2,"Local frozen white chicken",2016,41.27
+3,"Farm chicken",2016,27.92
+4,"Local chicken",2016,30.92
+5,"Large farm eggs",2016,1.1
+6,"Medium domestic pigeon",2016,48.33
+13,"Fresh milk",2016,7.66
+7,"Aged full-fat white cheese",2016,40.27
+8,"Cottage cheese",2016,17.21
+9,"Local buffalo ghee",2016,66.55
+10,"Loose local buffalo butter",2016,66.23
+11,"Loose imported cow butter",2016,51.15
+12,"Aged Romano cheese",2016,64.25
+31,"Local crushed fava beans",2016,10.2
+30,"Whole local lentils",2016,19.67
+14,"Frozen mackerel",2016,19.32
+15,Tilapia,2016,23.85
+17,Catfish,2016,11.35
+18,"Mullet fish",2016,42.8
+28,"Local wheat",2016,5.53
+16,"Frozen pasta fish",2016,14.89
+27,"Crushed lentils",2016,15.57
+26,"Local dry beans",2016,15.71
+21,"Local dry fava beans (for stew)",2016,15.28
+41,Strawberry,2016,6.3
+53,"Green bell pepper",2017,8.55
+51,Eggplant,2017,5.55
+50,"Local garlic",2017,26
+49,"Small local banana",2017,11.42
+36,"Young buffalo with bone (veal)",2017,136.08
+37,"Imported frozen beef",2017,73.21
+38,"Boneless medium-age beef & buffalo (kandoz)",2017,139.33
+39,"Local mutton with bone",2017,142.04
+48,"Small zucchini",2017,5.7
+44,"Green beans",2017,6.7
+47,"Medium cucumber",2017,7.11
+46,"Medium cabbage",2017,7.59
+45,"Salted lemon",2017,14.67
+43,Tomato,2017,5.92
+40,Onion,2017,6.72
+52,"Yellow carrot (without greens)",2017,4.26
+42,Potato,2017,5.42
+30,"Whole local lentils",2017,27
+2,"Local frozen white chicken",2017,48.07
+26,"Local dry beans",2017,28.08
+27,"Crushed lentils",2017,21.62
+28,"Local wheat",2017,8.1
+31,"Local crushed fava beans",2017,12.6
+8,"Cottage cheese",2017,24.52
+7,"Aged full-fat white cheese",2017,51.73
+10,"Loose local buffalo butter",2017,91.25
+1,"Local duck",2017,43
+14,"Frozen mackerel",2017,33.83
+15,Tilapia,2017,31.58
+16,"Frozen pasta fish",2017,27.38
+17,Catfish,2017,19.68
+11,"Loose imported cow butter",2017,96.39
+12,"Aged Romano cheese",2017,87.75
+13,"Fresh milk",2017,11.33
+21,"Local dry fava beans (for stew)",2017,17.22
+18,"Mullet fish",2017,60.12
+9,"Local buffalo ghee",2017,93.92
+6,"Medium domestic pigeon",2017,55.58
+4,"Local chicken",2017,38.17
+3,"Farm chicken",2017,32.92
+41,Strawberry,2017,8.3
+36,"Young buffalo with bone (veal)",2018,143
+37,"Imported frozen beef",2018,79.04
+40,Onion,2018,6.72
+39,"Local mutton with bone",2018,150.85
+52,"Yellow carrot (without greens)",2018,5.18
+46,"Medium cabbage",2018,6.75
+45,"Salted lemon",2018,10.82
+44,"Green beans",2018,9.43
+38,"Boneless medium-age beef & buffalo (kandoz)",2018,148.33
+50,"Local garlic",2018,16.47
+43,Tomato,2018,5.94
+42,Potato,2018,7.03
+53,"Green bell pepper",2018,8.09
+49,"Small local banana",2018,10.9
+48,"Small zucchini",2018,6.8
+47,"Medium cucumber",2018,7.2
+51,Eggplant,2018,5.3
+16,"Frozen pasta fish",2018,29.67
+17,Catfish,2018,19.55
+18,"Mullet fish",2018,64.66
+21,"Local dry fava beans (for stew)",2018,20.28
+14,"Frozen mackerel",2018,39.92
+15,Tilapia,2018,28.78
+6,"Medium domestic pigeon",2018,55.79
+4,"Local chicken",2018,37.77
+3,"Farm chicken",2018,30.58
+2,"Local frozen white chicken",2018,43.52
+1,"Local duck",2018,46.56
+8,"Cottage cheese",2018,27
+7,"Aged full-fat white cheese",2018,52.78
+9,"Local buffalo ghee",2018,96.28
+10,"Loose local buffalo butter",2018,96.39
+11,"Loose imported cow butter",2018,119.46
+12,"Aged Romano cheese",2018,100.85
+13,"Fresh milk",2018,13.68
+31,"Local crushed fava beans",2018,14.48
+30,"Whole local lentils",2018,25.28
+28,"Local wheat",2018,8.18
+27,"Crushed lentils",2018,20.52
+26,"Local dry beans",2018,28.55
+41,Strawberry,2018,8.8
+44,"Green beans",2019,16.84
+45,"Salted lemon",2019,22.68
+46,"Medium cabbage",2019,8.64
+47,"Medium cucumber",2019,9.15
+48,"Small zucchini",2019,7.93
+49,"Small local banana",2019,13.32
+51,Eggplant,2019,7.39
+52,"Yellow carrot (without greens)",2019,7.05
+53,"Green bell pepper",2019,7.71
+50,"Local garlic",2019,16.62
+36,"Young buffalo with bone (veal)",2019,141.98
+37,"Imported frozen beef",2019,79.28
+38,"Boneless medium-age beef & buffalo (kandoz)",2019,144.32
+39,"Local mutton with bone",2019,148.01
+40,Onion,2019,7.67
+42,Potato,2019,8.15
+43,Tomato,2019,6.07
+21,"Local dry fava beans (for stew)",2019,28.87
+3,"Farm chicken",2019,29.29
+18,"Mullet fish",2019,67.94
+17,Catfish,2019,19.93
+16,"Frozen pasta fish",2019,30.94
+15,Tilapia,2019,33.42
+14,"Frozen mackerel",2019,46.32
+6,"Medium domestic pigeon",2019,59.02
+4,"Local chicken",2019,41.33
+2,"Local frozen white chicken",2019,48.29
+1,"Local duck",2019,49.52
+11,"Loose imported cow butter",2019,113.51
+10,"Loose local buffalo butter",2019,98.08
+9,"Local buffalo ghee",2019,94.57
+7,"Aged full-fat white cheese",2019,56.37
+31,"Local crushed fava beans",2019,23.67
+13,"Fresh milk",2019,14.48
+12,"Aged Romano cheese",2019,108.28
+8,"Cottage cheese",2019,26.54
+30,"Whole local lentils",2019,25.01
+28,"Local wheat",2019,8.05
+27,"Crushed lentils",2019,19.11
+26,"Local dry beans",2019,29.69
+41,Strawberry,2019,8.42
+48,"Small zucchini",2020,6.63
+47,"Medium cucumber",2020,9.52
+46,"Medium cabbage",2020,9.34
+45,"Salted lemon",2020,15.1
+44,"Green beans",2020,14.25
+43,Tomato,2020,7.58
+42,Potato,2020,8.8
+36,"Young buffalo with bone (veal)",2020,142.32
+37,"Imported frozen beef",2020,77.61
+38,"Boneless medium-age beef & buffalo (kandoz)",2020,132.94
+39,"Local mutton with bone",2020,139.38
+40,Onion,2020,6.99
+53,"Green bell pepper",2020,6.78
+52,"Yellow carrot (without greens)",2020,7.73
+51,Eggplant,2020,6.8
+50,"Local garlic",2020,24.19
+49,"Small local banana",2020,14.48
+14,"Frozen mackerel",2020,45.52
+10,"Loose local buffalo butter",2020,106.8
+15,Tilapia,2020,32.94
+16,"Frozen pasta fish",2020,26.37
+17,Catfish,2020,19.21
+18,"Mullet fish",2020,67.02
+8,"Cottage cheese",2020,27.23
+12,"Aged Romano cheese",2020,107.73
+11,"Loose imported cow butter",2020,110.15
+9,"Local buffalo ghee",2020,98.11
+7,"Aged full-fat white cheese",2020,58.52
+30,"Whole local lentils",2020,24.75
+31,"Local crushed fava beans",2020,22.42
+28,"Local wheat",2020,7.08
+13,"Fresh milk",2020,14.55
+1,"Local duck",2020,48.98
+6,"Medium domestic pigeon",2020,59.13
+21,"Local dry fava beans (for stew)",2020,32.28
+3,"Farm chicken",2020,27.8
+2,"Local frozen white chicken",2020,47.62
+27,"Crushed lentils",2020,18.52
+26,"Local dry beans",2020,29.51
+4,"Local chicken",2020,40.43
+41,Strawberry,2020,9.4
+40,Onion,2021,5.62
+37,"Imported frozen beef",2021,78.28
+36,"Young buffalo with bone (veal)",2021,140.26
+53,"Green bell pepper",2021,7.62
+51,Eggplant,2021,5.38
+50,"Local garlic",2021,30.96
+49,"Small local banana",2021,12.08
+48,"Small zucchini",2021,7.94
+47,"Medium cucumber",2021,7.27
+46,"Medium cabbage",2021,9.28
+45,"Salted lemon",2021,17.82
+44,"Green beans",2021,11.7
+43,Tomato,2021,5.18
+42,Potato,2021,6.61
+39,"Local mutton with bone",2021,140.81
+38,"Boneless medium-age beef & buffalo (kandoz)",2021,137.48
+52,"Yellow carrot (without greens)",2021,6.71
+6,"Medium domestic pigeon",2021,58.28
+21,"Local dry fava beans (for stew)",2021,26.1
+8,"Cottage cheese",2021,28.85
+26,"Local dry beans",2021,27.79
+27,"Crushed lentils",2021,19.31
+4,"Local chicken",2021,43.6
+28,"Local wheat",2021,8.07
+30,"Whole local lentils",2021,24.56
+31,"Local crushed fava beans",2021,20.66
+3,"Farm chicken",2021,30.94
+2,"Local frozen white chicken",2021,45.65
+1,"Local duck",2021,50.91
+14,"Frozen mackerel",2021,41.34
+15,Tilapia,2021,30.19
+16,"Frozen pasta fish",2021,29.06
+17,Catfish,2021,20.77
+18,"Mullet fish",2021,61.08
+7,"Aged full-fat white cheese",2021,57.98
+9,"Local buffalo ghee",2021,109.62
+10,"Loose local buffalo butter",2021,107.29
+11,"Loose imported cow butter",2021,117.16
+12,"Aged Romano cheese",2021,105.17
+13,"Fresh milk",2021,14.47
+41,Strawberry,2021,8.72
+44,"Green beans",2022,15.35
+45,"Salted lemon",2022,15.3
+43,Tomato,2022,7.71
+42,Potato,2022,7.73
+40,Onion,2022,4.81
+51,Eggplant,2022,7.35
+36,"Young buffalo with bone (veal)",2022,148.36
+39,"Local mutton with bone",2022,162.29
+37,"Imported frozen beef",2022,89.94
+38,"Boneless medium-age beef & buffalo (kandoz)",2022,166.41
+49,"Small local banana",2022,12.77
+48,"Small zucchini",2022,10.13
+47,"Medium cucumber",2022,8.64
+46,"Medium cabbage",2022,13.2
+50,"Local garlic",2022,22.12
+52,"Yellow carrot (without greens)",2022,6.88
+53,"Green bell pepper",2022,10.8
+1,"Local duck",2022,59.73
+14,"Frozen mackerel",2022,44.31
+15,Tilapia,2022,37.74
+16,"Frozen pasta fish",2022,42.92
+17,Catfish,2022,26.53
+18,"Mullet fish",2022,71.5
+3,"Farm chicken",2022,39.21
+6,"Medium domestic pigeon",2022,67.82
+28,"Local wheat",2022,12.48
+4,"Local chicken",2022,53.09
+30,"Whole local lentils",2022,25.26
+21,"Local dry fava beans (for stew)",2022,26.02
+26,"Local dry beans",2022,28.69
+27,"Crushed lentils",2022,25.99
+31,"Local crushed fava beans",2022,22.18
+13,"Fresh milk",2022,14.07
+12,"Aged Romano cheese",2022,119.99
+11,"Loose imported cow butter",2022,143.93
+10,"Loose local buffalo butter",2022,117.31
+9,"Local buffalo ghee",2022,130.43
+8,"Cottage cheese",2022,35.37
+7,"Aged full-fat white cheese",2022,66.28
+2,"Local frozen white chicken",2022,55.25
+41,Strawberry,2022,9.9
+34,"Loose black honey (molasses)",2022,19.25
+33,"Apricot jam",2022,17.55
+32,"Packed white rice",2022,19.97
+24,"Loose local rice",2022,16.27
+19,"Tahini (loose)",2022,54.72
+20,"Halva (loose)",2022,50.1
+23,"Packed honey",2022,44.18
+22,"Loose pasta",2022,14.37
+35,"Tea pack",2022,4.68
+25,"Packed free sugar",2022,15.82
+29,"72% loose wheat flour",2022,13.55
+36,"Young buffalo with bone (veal)",2023,271.65
+38,"Boneless medium-age beef & buffalo (kandoz)",2023,293.6
+39,"Local mutton with bone",2023,291.77
+48,"Small zucchini",2023,13.05
+49,"Small local banana",2023,15.92
+50,"Local garlic",2023,31.97
+53,"Green bell pepper",2023,15.22
+45,"Salted lemon",2023,17.83
+51,Eggplant,2023,9.03
+46,"Medium cabbage",2023,19.87
+37,"Imported frozen beef",2023,194.46
+40,Onion,2023,18.72
+42,Potato,2023,12.18
+43,Tomato,2023,9.89
+47,"Medium cucumber",2023,12.44
+44,"Green beans",2023,20.76
+52,"Yellow carrot (without greens)",2023,13.22
+7,"Aged full-fat white cheese",2023,112.59
+8,"Cottage cheese",2023,58.62
+9,"Local buffalo ghee",2023,173.55
+10,"Loose local buffalo butter",2023,173.32
+11,"Loose imported cow butter",2023,235.62
+12,"Aged Romano cheese",2023,193.5
+13,"Fresh milk",2023,21.8
+14,"Frozen mackerel",2023,81.18
+15,Tilapia,2023,72.52
+16,"Frozen pasta fish",2023,74.11
+17,Catfish,2023,48.22
+18,"Mullet fish",2023,117.55
+35,"Tea pack",2023,7.78
+34,"Loose black honey (molasses)",2023,28.58
+33,"Apricot jam",2023,24.73
+32,"Packed white rice",2023,32.5
+31,"Local crushed fava beans",2023,34.27
+30,"Whole local lentils",2023,44.73
+21,"Local dry fava beans (for stew)",2023,38.15
+20,"Halva (loose)",2023,81.13
+19,"Tahini (loose)",2023,105.62
+28,"Local wheat",2023,21.83
+27,"Crushed lentils",2023,46.32
+26,"Local dry beans",2023,52.12
+25,"Packed free sugar",2023,27.29
+24,"Loose local rice",2023,25.63
+29,"72% loose wheat flour",2023,19.79
+23,"Packed honey",2023,55.33
+6,"Medium domestic pigeon",2023,110.01
+4,"Local chicken",2023,103.62
+3,"Farm chicken",2023,76.09
+2,"Local frozen white chicken",2023,107.55
+1,"Local duck",2023,111.75
+22,"Loose pasta",2023,20.76
+41,Strawberry,2023,15.68
+21,"Local dry fava beans (for stew)",2024,48.28
+36,"Young buffalo with bone (veal)",2024,378.04
+35,"Tea pack",2024,10.58
+34,"Loose black honey (molasses)",2024,43.53
+33,"Apricot jam",2024,35.99
+32,"Packed white rice",2024,39.07
+31,"Local crushed fava beans",2024,46.9
+30,"Whole local lentils",2024,61.51
+29,"72% loose wheat flour",2024,22.79
+28,"Local wheat",2024,26.97
+27,"Crushed lentils",2024,63.37
+26,"Local dry beans",2024,85.02
+25,"Packed free sugar",2024,43.11
+24,"Loose local rice",2024,29.58
+23,"Packed honey",2024,74.08
+22,"Loose pasta",2024,27.82
+20,"Halva (loose)",2024,120.32
+19,"Tahini (loose)",2024,155.16
+37,"Imported frozen beef",2024,268.89
+38,"Boneless medium-age beef & buffalo (kandoz)",2024,394.11
+39,"Local mutton with bone",2024,406.06
+40,Onion,2024,21.83
+42,Potato,2024,19.75
+43,Tomato,2024,13.5
+44,"Green beans",2024,26.17
+45,"Salted lemon",2024,24.31
+46,"Medium cabbage",2024,26.22
+47,"Medium cucumber",2024,18.07
+48,"Small zucchini",2024,18.28
+49,"Small local banana",2024,19.9
+50,"Local garlic",2024,80.44
+51,Eggplant,2024,12.47
+52,"Yellow carrot (without greens)",2024,14.39
+53,"Green bell pepper",2024,19.02
+18,"Mullet fish",2024,149.88
+17,Catfish,2024,61.44
+16,"Frozen pasta fish",2024,97.95
+15,Tilapia,2024,87.78
+14,"Frozen mackerel",2024,118.29
+6,"Medium domestic pigeon",2024,151.26
+4,"Local chicken",2024,124.23
+3,"Farm chicken",2024,91.66
+12,"Aged Romano cheese",2024,263.87
+11,"Loose imported cow butter",2024,358.48
+10,"Loose local buffalo butter",2024,246.7
+9,"Local buffalo ghee",2024,251.08
+8,"Cottage cheese",2024,82.96
+7,"Aged full-fat white cheese",2024,158.29
+1,"Local duck",2024,138.81
+13,"Fresh milk",2024,29.94
+2,"Local frozen white chicken",2024,133.32
+41,Strawberry,2024,23.56
+52,"Yellow carrot (without greens)",2025,13.27
+39,"Local mutton with bone",2025,423.59
+46,"Medium cabbage",2025,30.23
+44,"Green beans",2025,24.26
+43,Tomato,2025,9.12
+42,Potato,2025,12.06
+53,"Green bell pepper",2025,21.43
+23,"Packed honey",2025,84.82
+51,Eggplant,2025,12.49
+50,"Local garlic",2025,87.73
+34,"Loose black honey (molasses)",2025,47.97
+19,"Tahini (loose)",2025,162.98
+20,"Halva (loose)",2025,128.57
+21,"Local dry fava beans (for stew)",2025,52.77
+22,"Loose pasta",2025,28.46
+40,Onion,2025,17.86
+24,"Loose local rice",2025,29.26
+25,"Packed free sugar",2025,42.14
+26,"Local dry beans",2025,79.78
+27,"Crushed lentils",2025,62.09
+28,"Local wheat",2025,26.88
+29,"72% loose wheat flour",2025,22.27
+30,"Whole local lentils",2025,62.24
+31,"Local crushed fava beans",2025,48.61
+32,"Packed white rice",2025,38.91
+33,"Apricot jam",2025,39.29
+35,"Tea pack",2025,10.84
+47,"Medium cucumber",2025,19.76
+36,"Young buffalo with bone (veal)",2025,390.25
+37,"Imported frozen beef",2025,271.39
+48,"Small zucchini",2025,18.99
+49,"Small local banana",2025,32.69
+45,"Salted lemon",2025,59.16
+38,"Boneless medium-age beef & buffalo (kandoz)",2025,408.78
+1,"Local duck",2025,145.99
+2,"Local frozen white chicken",2025,139.98
+3,"Farm chicken",2025,92.08
+4,"Local chicken",2025,128.12
+13,"Fresh milk",2025,32.31
+12,"Aged Romano cheese",2025,282.06
+11,"Loose imported cow butter",2025,381.26
+18,"Mullet fish",2025,170.64
+17,Catfish,2025,66.42
+16,"Frozen pasta fish",2025,111.71
+15,Tilapia,2025,94.77
+14,"Frozen mackerel",2025,138.92
+10,"Loose local buffalo butter",2025,278.71
+9,"Local buffalo ghee",2025,278.1
+7,"Aged full-fat white cheese",2025,165.84
+6,"Medium domestic pigeon",2025,170.56
+8,"Cottage cheese",2025,91.94

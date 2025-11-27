@@ -1,0 +1,54 @@
+Commodity_id,Commodity,Unit,category
+1,"Local duck",KG,Birds
+2,"Local frozen white chicken","One Peace",Birds
+3,"Farm chicken",KG,Birds
+4,"Local chicken",KG,Birds
+5,"Large farm eggs","One Peace",Birds
+6,"Medium domestic pigeon",Pair,Birds
+7,"Aged full-fat white cheese",KG,"Dairy Products"
+8,"Cottage cheese",KG,"Dairy Products"
+9,"Local buffalo ghee","850 G","Dairy Products"
+10,"Loose local buffalo butter",KG,"Dairy Products"
+11,"Loose imported cow butter",KG,"Dairy Products"
+12,"Aged Romano cheese",KG,"Dairy Products"
+13,"Fresh milk",KG,"Dairy Products"
+14,"Frozen mackerel",KG,Fish
+15,Tilapia,KG,Fish
+16,"Frozen pasta fish",KG,Fish
+17,Catfish,KG,Fish
+18,"Mullet fish",KG,Fish
+19,"Tahini (loose)",KG,Grains
+20,"Halva (loose)",KG,Grains
+21,"Local dry fava beans (for stew)",KG,Grains
+22,"Loose pasta",KG,Grains
+23,"Packed honey",KG,Grains
+24,"Loose local rice",KG,Grains
+25,"Packed free sugar",KG,Grains
+26,"Local dry beans",KG,Grains
+27,"Crushed lentils",KG,Grains
+28,"Local wheat",KG,Grains
+29,"72% loose wheat flour",KG,Grains
+30,"Whole local lentils",KG,Grains
+31,"Local crushed fava beans",KG,Grains
+32,"Packed white rice",KG,Grains
+33,"Apricot jam",KG,Grains
+34,"Loose black honey (molasses)",KG,Grains
+35,"Tea pack",KG,Grains
+36,"Young buffalo with bone (veal)",KG,Meat
+37,"Imported frozen beef",KG,Meat
+38,"Boneless medium-age beef & buffalo (kandoz)",KG,Meat
+39,"Local mutton with bone",KG,Meat
+40,Onion,KG,"Vegetables & Fruits"
+41,Strawberry,KG,"Vegetables & Fruits"
+42,Potato,KG,"Vegetables & Fruits"
+43,Tomato,KG,"Vegetables & Fruits"
+44,"Green beans",KG,"Vegetables & Fruits"
+45,"Salted lemon",KG,"Vegetables & Fruits"
+46,"Medium cabbage","One Peace","Vegetables & Fruits"
+47,"Medium cucumber",KG,"Vegetables & Fruits"
+48,"Small zucchini",KG,"Vegetables & Fruits"
+49,"Small local banana",KG,"Vegetables & Fruits"
+50,"Local garlic",KG,"Vegetables & Fruits"
+51,Eggplant,KG,"Vegetables & Fruits"
+52,"Yellow carrot (without greens)",KG,"Vegetables & Fruits"
+53,"Green bell pepper",KG,"Vegetables & Fruits"
